@@ -47,6 +47,13 @@ COLLEGESAMAJ/
 
 ---
 
+## 🎥 Project Demonstration  
+You can view the full **project demonstration video** here:  
+
+📎 [**Watch Demonstration on Google Drive**](https://drive.google.com/file/d/1CmP5Hys6hkMIoFNsbJEN7F86cZAk3Kt7/view)
+
+---
+
 ## 📜 Internship Offer Letter  
 Below is a preview of the official **Internship Offer Letter** issued by *College Samaj*:  
 
@@ -90,9 +97,12 @@ Gratitude to the mentors and coordinators for their continuous support and const
 ## 🔗 Additional Links  
 - [College Samaj Official Website](https://www.collegesamaj.in)  
 - [Internship Offer Letter (Google Drive)](https://drive.google.com/file/d/1CmP5Hys6hkMIoFNsbJEN7F86cZAk3Kt7/view?usp=sharing)  
+- [Project Demonstration (Google Drive)](https://drive.google.com/file/d/1CmP5Hys6hkMIoFNsbJEN7F86cZAk3Kt7/view)  
 - [LinkedIn Post Highlighting Internship](https://www.linkedin.com/in/md-ahasanul-haque-sazid)  
 
 ---
 
 ## 📄 License  
 This repository is intended for educational and demonstration purposes only.  
+
+---
