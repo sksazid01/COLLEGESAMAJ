@@ -16,15 +16,13 @@ This repository demonstrates the knowledge and practical experience I gained dur
 ---
 
 ## 🧩 Project Structure  
-```
-COLLEGESAMAJ/
-│
-├── Calculator/        # JavaScript-based calculator project
-├── Portfolio/         # Personal portfolio website
-├── Certificate.pdf    # Internship completion certificate
-├── Offer Letter.jpeg  # Official internship offer letter
-└── README.md          # Project documentation
-```
+COLLEGESAMAJ/  
+│  
+├── Calculator/        # JavaScript-based calculator project  
+├── Portfolio/         # Personal portfolio website  
+├── Certificate.pdf    # Internship completion certificate  
+├── Offer Letter.jpeg  # Official internship offer letter  
+└── README.md          # Project documentation  
 
 ---
 
@@ -43,16 +41,14 @@ COLLEGESAMAJ/
 - **HTML5**  
 - **CSS3**  
 - **JavaScript (ES6+)**  
-- **Git** / **GitHub**  
+- **Git / GitHub**  
 
 ---
 
 ## 🎥 Project Demonstration  
 You can view the full **project demonstration video** here:  
 
-📺 [**Watch Demonstration on YouTube**](https://youtu.be/yZfYxbAdTpU)  
-
-📎 [**Watch Demonstration on Google Drive**](https://drive.google.com/file/d/1CmP5Hys6hkMIoFNsbJEN7F86cZAk3Kt7/view)  
+[![COLLEGESAMAJ Project Demonstration](https://img.youtube.com/vi/yZfYxbAdTpU/maxresdefault.jpg)](https://youtu.be/yZfYxbAdTpU)  
 
 ---
 
@@ -61,8 +57,8 @@ Below is a preview of the official **Internship Offer Letter** issued by *Colleg
 
 ![Offer Letter Preview](./Offer%20Letter.jpeg)  
 
-📎 You can view or download the full version here:  
-[View Offer Letter](./Offer%20Letter.jpeg)
+📎 **View or download the full version here:**  
+[View Offer Letter](./Offer%20Letter.jpeg)  
 
 ---
 
@@ -80,11 +76,11 @@ Here’s a preview of the **Internship Completion Certificate** received after s
 1. Clone this repository:  
    ```bash
    git clone https://github.com/sksazid01/COLLEGESAMAJ.git
-   ```
+   ```  
 2. Navigate to the project directory:  
    ```bash
    cd COLLEGESAMAJ
-   ```
+   ```  
 3. Open the `Calculator` or `Portfolio` folder.  
 4. Run the project by opening the `index.html` file in your browser.  
 
@@ -98,8 +94,6 @@ Gratitude to the mentors and coordinators for their continuous support and const
 
 ## 🔗 Additional Links  
 - [College Samaj Official Website](https://www.collegesamaj.in)  
-- [Internship Offer Letter (Google Drive)](https://drive.google.com/file/d/1CmP5Hys6hkMIoFNsbJEN7F86cZAk3Kt7/view?usp=sharing)  
-- [Project Demonstration (Google Drive)](https://drive.google.com/file/d/1CmP5Hys6hkMIoFNsbJEN7F86cZAk3Kt7/view)  
 - [Project Demonstration (YouTube)](https://youtu.be/yZfYxbAdTpU)  
 - [LinkedIn Post Highlighting Internship](https://www.linkedin.com/in/md-ahasanul-haque-sazid)  
 
@@ -107,4 +101,3 @@ Gratitude to the mentors and coordinators for their continuous support and const
 
 ## 📄 License  
 This repository is intended for educational and demonstration purposes only.  
-
