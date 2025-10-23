@@ -50,7 +50,9 @@ COLLEGESAMAJ/
 ## 🎥 Project Demonstration  
 You can view the full **project demonstration video** here:  
 
-📎 [**Watch Demonstration on Google Drive**](https://drive.google.com/file/d/1CmP5Hys6hkMIoFNsbJEN7F86cZAk3Kt7/view)
+📺 [**Watch Demonstration on YouTube**](https://youtu.be/yZfYxbAdTpU)  
+
+📎 [**Watch Demonstration on Google Drive**](https://drive.google.com/file/d/1CmP5Hys6hkMIoFNsbJEN7F86cZAk3Kt7/view)  
 
 ---
 
@@ -98,6 +100,7 @@ Gratitude to the mentors and coordinators for their continuous support and const
 - [College Samaj Official Website](https://www.collegesamaj.in)  
 - [Internship Offer Letter (Google Drive)](https://drive.google.com/file/d/1CmP5Hys6hkMIoFNsbJEN7F86cZAk3Kt7/view?usp=sharing)  
 - [Project Demonstration (Google Drive)](https://drive.google.com/file/d/1CmP5Hys6hkMIoFNsbJEN7F86cZAk3Kt7/view)  
+- [Project Demonstration (YouTube)](https://youtu.be/yZfYxbAdTpU)  
 - [LinkedIn Post Highlighting Internship](https://www.linkedin.com/in/md-ahasanul-haque-sazid)  
 
 ---
@@ -105,4 +108,3 @@ Gratitude to the mentors and coordinators for their continuous support and const
 ## 📄 License  
 This repository is intended for educational and demonstration purposes only.  
 
----
