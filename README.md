@@ -48,7 +48,7 @@ COLLEGESAMAJ/
 ## 🎥 Project Demonstration  
 You can view the full **project demonstration video** here:  
 
-[![COLLEGESAMAJ Project Demonstration](https://img.youtube.com/vi/yZfYxbAdTpU/maxresdefault.jpg)](https://youtu.be/yZfYxbAdTpU)  
+[![COLLEGESAMAJ Project Demonstration](Image.png)](https://youtu.be/yZfYxbAdTpU)  
 
 ---
 
