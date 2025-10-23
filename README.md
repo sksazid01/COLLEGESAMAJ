@@ -95,7 +95,7 @@ Gratitude to the mentors and coordinators for their continuous support and const
 ## 🔗 Additional Links  
 - [College Samaj Official Website](https://www.collegesamaj.in)  
 - [Project Demonstration (YouTube)](https://youtu.be/yZfYxbAdTpU)  
-- [LinkedIn Post Highlighting Internship](https://www.linkedin.com/in/md-ahasanul-haque-sazid)  
+- [LinkedIn Post Highlighting Internship]([https://www.linkedin.com/in/md-ahasanul-haque-sazid](https://www.linkedin.com/posts/sksazid_collegesamaj-activity-7160326783383281664-4CZb?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEQ7eTABfzDfILnlq-z7OGobyjn9Tvbdta4))  
 
 ---
 
